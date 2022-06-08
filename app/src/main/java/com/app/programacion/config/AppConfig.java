@@ -15,6 +15,7 @@ public class AppConfig {
 
     //if you use RTL Language e.g : Arabic Language or other, set true
     public static final boolean ENABLE_RTL_MODE = false;
+    //hola
 
     //load more for next list videos
     public static final int POST_PER_PAGE = 12;
