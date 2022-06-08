@@ -3,10 +3,10 @@ package com.app.programacion.config;
 public class AppConfig {
 
     //your Server Key obtained from the admin panel
-    public static final String SERVER_KEY = "WVVoU01HTklUVFpNZVRsNllqSjRkbHBJU25aaFYxRjFZbTFXTUV3eVRuWmFSMVpxV1ZjMU5XSXlOSFpsVnpreFkydzVlVnBYVG5CalIxWjZXREpHZDJOR09XaGpTRUp6WVZkT2FHUkhiSFppYTJ4cldESk9kbUpUTlhkamJUazFXbGRPTUdJeVJYVmpTRXAyV2pOS2FHSlhSbXBoVnpsMQ==";
+    public static final String SERVER_KEY = "WVVoU01HTkViM1pNTTBKNVlqTnNiRmt6VW5aWlV6VnNZMGRzTm1WVE5XcGlNakIyV0RKR2QyTkhlSEJaTWtZd1lWYzVkVk5YVW1aWk1qbDBURzVDZVdJemJHeFpNMUoyV1ZNMWQyTnRPVzVqYlVaMFdWZE9jR0l5TkQwPQ==";
 
     //your Rest API Key obtained from the admin panel
-    public static final String REST_API_KEY = "cda11aTRxvAh315OB9oeMbiHFI2ZKDnXdLpyNqJSQ7wg4PfCzc";
+    public static final String REST_API_KEY = "cda11Uib7PLEA8pjKehSVfY0vdHsXI269J3MlqcGatWZBmxOgR";
 
     //layout customization
     public static final boolean ENABLE_RECIPE_COUNT_ON_CATEGORY = true;
